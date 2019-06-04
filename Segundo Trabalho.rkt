@@ -36,7 +36,7 @@
 #|> (deleta str i)
 "hellworld"|#
 
-
+ 
 ;(Ex.5)
 (require 2htdp/image)
 (define tree
